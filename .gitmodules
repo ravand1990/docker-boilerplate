@@ -1,0 +1,3 @@
+[submodule "apps/angular-client"]
+	path = apps/angular-client
+	url = git@github.com:ravand1990/angular-client.git
